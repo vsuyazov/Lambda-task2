@@ -6,6 +6,4 @@ public class Main {
         Worker worker = new Worker(listener, fault);
         worker.start();
     }
-
-
 }
